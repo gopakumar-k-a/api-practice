@@ -9,11 +9,11 @@ You can download the project files from the GitHub repository:
 ### Steps to Download and Set Up
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-repository-link.git
+   git clone https://github.com/gopakumar-k-a/api-practice.git
    ```
 2. Navigate to the project directory:
    ```bash
-   cd project-name
+   cd api-practice
    ```
 3. Install the required dependencies:
    ```bash
